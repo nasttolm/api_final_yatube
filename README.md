@@ -36,12 +36,7 @@ GET/api/v1/posts/
 
 POST/api/v1/posts/{post_id}/comments/
 
-<h2 align="center"> Стек технологий </h2>
-Python 3.9.10
-Django 3.2.16
-djangorestframework 3.12.4
-djangorestframework-simplejwt 4.7.2
 
-<h2 align="center"> ###Документация к API проекта Yatube (v1): </h2>
+###Документация к API проекта Yatube (v1):
 
 http://127.0.0.1:8000/redoc/
