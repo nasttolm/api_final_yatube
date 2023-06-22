@@ -36,7 +36,6 @@ GET/api/v1/posts/
 
 POST/api/v1/posts/{post_id}/comments/
 
-<<<<<<< HEAD
 <h2 align="center"> Стек технологий </h2>
 Python 3.9.10
 
