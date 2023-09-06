@@ -1,5 +1,5 @@
 <h1 align="center"> Проект «API для Yatube» </h1>
-Yandex educational project.Python Developer course (backend).
+Yandex educational project. Python Developer course (backend).
 
 <h2 align="center"> Как запустить проект? </h2>
 
