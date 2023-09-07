@@ -5,7 +5,8 @@ Yandex educational project. Python Developer course (backend).
 
 - Clone the repository and go to it on the command line:
 ```
-git clone https://github.com/yandex-praktikum/kittygram.git
+git clone https://github.com/nasttolm/
+api_final_yatube.git
 ```
 cd kittygram
 
