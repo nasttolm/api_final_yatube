@@ -1,8 +1,8 @@
 # The "API for Yatube" project
 Yandex educational project. Python Developer course (backend).
 ### Description
-Yatube is a social network for publishing diaries. Allows you to publish posts, comment on posts, subscribe to authors.
-Django REST framework is used for API development. JWT token authentication is implemented. 
+Yatube is a social network for publishing diaries. It allows you to publish posts, to comment on the posts and to follow different authors.
+Django REST framework is used for API development. ViewSets with restricted access for different users were used. JWT token authentication is implemented.
 
 ### Running a project
 
